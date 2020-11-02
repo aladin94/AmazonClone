@@ -1,5 +1,5 @@
 # AmazonClone
-<h1>An Amazon Clone built using React. Desktop and Mobile-friendly<h1>
+<h2>An Amazon Clone built using React. Desktop and Mobile-friendly<h2>
 
 <h2>Lanugages used: HTML/CSS/React.
 
