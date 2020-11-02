@@ -5,7 +5,7 @@
 
 <h2>Lanugages used: HTML/CSS/React.</h2>
 
-<img src="amazonss.png" height="auto" width="auto />
+<img src="amazonss.png" />
 
 
 
