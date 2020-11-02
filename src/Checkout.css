@@ -1,0 +1,42 @@
+.checkout__title {
+    margin-right: 10px;
+}
+
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+
+.checkout__ad {
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+.checkout__right {
+    background-color: #232f3e;
+    margin-left: 20px;
+    font-size: 1.2em;
+    color: white;
+    height: 40vh;
+}
+
+@media only screen and (max-width: 600px) {
+    .checkout {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .checkout__ad {
+        height: 9vh;
+        width: 92vw;
+    }
+    .checkout__right {
+        display: flex;
+        justify-content: center;
+        margin-left: 0px;
+        width: 100vw;
+        margin-bottom: -20px;
+    }
+}
