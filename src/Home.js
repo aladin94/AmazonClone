@@ -45,7 +45,7 @@ function Home() {
                     title="Amazon Prime Groceries"
                     price={29.99}
                     rating={5}
-                    image="https://i0.wp.com/fortlauderdaleonthecheap.com/lotc-cms/wp-content/uploads/2020/03/groceries2.jpg?resize=610%2C477&ssl=1"
+                    image="http://ifapack.com/wp-content/uploads/2020/02/grocery-paper-bags-500x500-1.jpg"
                 />
             </div>
             <div className="home__row" id="lastRow">
