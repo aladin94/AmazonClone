@@ -22,7 +22,7 @@ function Home() {
                     title="Marvel's The Avengers (DVD)"
                     price={17.99}
                     rating={4}
-                    image="https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/AC69N2/0e59802d295b4e728e5b36c0cddef62b.jpeg/f/marvels-avengers-dvd.jpeg?width=580"
+                    image="https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/7745055550782?fmt=jpeg&qlt=90&wid=652&hei=652"
                 />
             </div>
             <div className="home__row" id="secondRow">
