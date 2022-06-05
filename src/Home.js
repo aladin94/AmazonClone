@@ -45,7 +45,7 @@ function Home() {
                     title="Amazon Prime Groceries"
                     price={29.99}
                     rating={5}
-                    image="http://ifapack.com/wp-content/uploads/2020/02/grocery-paper-bags-500x500-1.jpg"
+                    image="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2021-12/211213-wee-groceries-se-405p-a36212.jpg"
                 />
             </div>
             <div className="home__row" id="lastRow">
