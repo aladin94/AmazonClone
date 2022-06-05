@@ -15,14 +15,14 @@ function Home() {
                     title="The Lumineers (Deluxe Album)"
                     price={11.95}
                     rating={5}
-                    image="https://images-na.ssl-images-amazon.com/images/I/616wDxRkPoL._SL1425_.jpg"
+                    image="./images/TheLumineersalbum.jpg"
                 />
                 <Product 
                     id="42069"
                     title="Marvel's The Avengers (DVD)"
                     price={17.99}
                     rating={4}
-                    image="https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/7745055550782?fmt=jpeg&qlt=90&wid=652&hei=652"
+                    image="./images/avengers.png"
                 />
             </div>
             <div className="home__row" id="secondRow">
@@ -31,21 +31,21 @@ function Home() {
                     title="Always Looking Up by Michael J. Fox"
                     price={9.95}
                     rating={5}
-                    image="https://images-na.ssl-images-amazon.com/images/I/41lnL2+YJIL.jpg"
+                    image="./images/always.jpg"
                 />
                 <Product 
                     id="12321341"
                     title="Apple Watch Series 6 (GPS, 40mm) - White"
                     price={399.95}
                     rating={5}
-                    image="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/42-alu-silver-sport-white-nc-s3-grid?wid=540&hei=550&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1594259786000"
+                    image="./images/apple.jpeg"
                 />
                 <Product 
                     id="2323232"
                     title="Amazon Prime Groceries"
                     price={29.99}
                     rating={5}
-                    image="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2021-12/211213-wee-groceries-se-405p-a36212.jpg"
+                    image="./images/groceries.jpg"
                 />
             </div>
             <div className="home__row" id="lastRow">
@@ -54,7 +54,7 @@ function Home() {
                     title="Samsung 75-Inch 4K Ultra HD Smart LED TV"
                     price={999.95}
                     rating={3}
-                    image="https://images-na.ssl-images-amazon.com/images/I/51BcgAu9CjL._AC_SY400_.jpg"
+                    image="./images/samsung.jpg"
                 />
             </div>
         </div>
